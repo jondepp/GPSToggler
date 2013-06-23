@@ -9,6 +9,16 @@ GPS toggle widget for Android rooted devices. It wrks well even for those ROMs a
 It requires the 'su' privilegies only during the very first run (reboot is still required). 
 
 
+IMPORTANT
+=========
+
+This APK requires full access to the system area under 'root'. Antivirus may prevent correct functionality during 
+installation and/or update.
+
+When first installing or updating the software disable your antivirus if installed.
+Verify the full functionality and reenable back the antivirus.
+
+
 Versions:
 
 0.19
